@@ -79,3 +79,10 @@ table {
 #projectby{
 	text-align:right;
 }
+#introduction{
+	text-align: justify, center;
+	padding:0 20%;
+}
+#features{
+	color: #b2ff00;
+}
